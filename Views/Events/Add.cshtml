@@ -1,0 +1,36 @@
+﻿@using Ch26_Practice_2___Razor_Forms.ViewModels;
+
+@model AddEventViewModel;
+
+
+<h1>Add Event and Description</h1>
+
+<form method="post"
+      asp-controller="Events"
+      asp-action="Add">
+    <label asp-for="Name">Event name:</label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span>
+    <br />
+
+    <label asp-for="Description"></label>
+    <input asp-for="Description" />
+    <span asp-validation-for="Description"></span>
+    <br />
+    <label asp-for="ContactEmail">Contact Email</label>
+    <input asp-for="ContactEmail" />
+    <span asp-validation-for="ContactEmail"></span>
+    <br />
+    <label asp-for="Location">Location</label>
+    <input asp-for="Location" />
+    <span asp-validation-for="Location"></span>
+    <br />
+    <label asp-for="NumberOfAttendees"># of Attendees</label>
+    <input asp-for="NumberOfAttendees" />
+    <span asp-validation-for="NumberOfAttendees"></span>
+    <br />
+    <br />
+    <input type="submit" class="btn btn-primary" value="Add Event and Description" />
+</form>
+
+

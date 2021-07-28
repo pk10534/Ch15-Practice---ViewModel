@@ -1,0 +1,61 @@
+﻿using Ch26_Practice_2___Razor_Forms.Models
+
+@model List<Event>
+
+
+<h1>Coding Events</h1>
+
+<p>
+    <a asp-controller="Events" asp-action="Add">Add Event</a>
+</p>
+
+<p>
+    <a asp-controller="Events" asp-action="Delete">Delete Event(s)</a>
+</p>
+
+@if (Model.Count == 0)
+{
+    <p>No events yet!</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Event</th>
+                <th scope="col">Description</th>
+                <th scope="col">Contact Email</th>
+                <th scope="col">Location</th>
+                <th scope="col">Number of Attendees</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.ContactEmail</td>
+                    <td>@item.Location</td>
+                    <td>@item.NumberOfAttendees</td>
+                    <td><a asp-controller="Events" asp-action="Edit" asp-route-id="@item.Id">Edit Event</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+
+
+
+
+
+
+
+
+<partial name="/Views/Shared/_LinkListPartial.cshtml" />
