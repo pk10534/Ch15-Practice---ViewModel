@@ -49,7 +49,7 @@ namespace SpaDay.Controllers
                         Email = addUserViewModel.Email
 
                     };
-                    ViewBag.Error = "Please make ensure passwords match";
+                    ViewBag.Error = "Please ensure passwords match";
                     return View("Add", addUserViewModel);
                 }
             }

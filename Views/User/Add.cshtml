@@ -3,12 +3,14 @@
 @model AddUserViewModel;
 
 
-<h1>Input User Information</h1>
+<h1>Sign up!</h1>
 
 <form method="post"
       asp-controller="User"
       asp-action="SubmitAddUserForm">
-    <p>@ViewBag.Error</p>
+    <b>@ViewBag.Error</b>
+    <br />
+    <br />
     <label asp-for="Username">Username</label>
     <input asp-for="Username" />
     <span asp-validation-for="Username"></span>
