@@ -1,0 +1,51 @@
+﻿@using Studio___Spa_Day.ViewModels;
+
+@model AddUserViewModel;
+
+
+<h1>Input User Information</h1>
+
+<form method="post"
+      asp-controller="User"
+      asp-action="SubmitAddUserForm">
+    <p>@ViewBag.Error</p>
+    <label asp-for="Username">Username</label>
+    <input asp-for="Username" />
+    <span asp-validation-for="Username"></span>
+    <br />
+
+    <label asp-for="Email">Email</label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+    <br />
+    <label asp-for="Password">Password</label>
+    <input type="password" asp-for="Password" />
+    <span asp-validation-for="Password"></span>
+    <br />
+    <label asp-for="VerifyPassword">VerifyPassword</label>
+    <input type="password" asp-for="VerifyPassword" />
+    <span asp-validation-for="VerifyPassword"></span>
+    <br />
+    <br />
+    <input type="submit" class="btn btn-primary" value="Login" />
+</form>
+
+
+<!--
+<form asp-controller="User" asp-action="SubmitAddUserForm">
+    <p><b>ViewBag.Error</b></p>
+    <p>Username: </p>
+    <input name="username" type="text" value="ViewBag.NewUserName" />
+
+    <p>Email: </p>
+    <input name="email" type="email" value="ViewBag.NewEmail" />
+
+    <p>Password: </p>
+    <input name="password" type="password" />
+
+    <p>Re-enter Password: </p>
+    <input name="verify" type="password" />
+    <br />
+    <br />
+    <input type="submit" class="btn btn-primary" value="Login" />
+</form> -->

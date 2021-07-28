@@ -1,0 +1,88 @@
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\appsettings.json
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.exe
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.deps.json
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.runtimeconfig.json
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.runtimeconfig.dev.json
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\ref\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.pdb
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.Views.dll
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\bin\Debug\net5.0\Studio - Spa Day.Views.pdb
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.csproj.AssemblyReference.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.AssemblyInfoInputs.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.AssemblyInfo.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.csproj.CoreCompileInputs.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.RazorAssemblyInfo.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.RazorAssemblyInfo.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\staticwebassets\Studio - Spa Day.StaticWebAssets.Manifest.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\staticwebassets\Studio - Spa Day.StaticWebAssets.xml
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\scopedcss\bundle\Studio - Spa Day.styles.css
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.TagHelpers.input.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.TagHelpers.output.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.RazorCoreGenerate.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\Spa\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\Spa\Menu.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.RazorTargetAssemblyInfo.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.RazorTargetAssemblyInfo.cs
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.Views.pdb
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\ref\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.pdb
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.genruntimeconfig.cache
+C:\Users\pk080\source\repos\Spa Day - Ch14\Studio - Spa Day\obj\Debug\net5.0\Studio - Spa Day.csproj.CopyComplete
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\appsettings.json
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.exe
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.deps.json
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.runtimeconfig.json
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.runtimeconfig.dev.json
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\ref\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.pdb
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.Views.dll
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\bin\Debug\net5.0\Studio - Spa Day.Views.pdb
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.csproj.AssemblyReference.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.AssemblyInfoInputs.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.AssemblyInfo.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.csproj.CoreCompileInputs.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.RazorAssemblyInfo.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.RazorAssemblyInfo.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\staticwebassets\Studio - Spa Day.StaticWebAssets.Manifest.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\staticwebassets\Studio - Spa Day.StaticWebAssets.xml
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\scopedcss\bundle\Studio - Spa Day.styles.css
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.TagHelpers.input.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.TagHelpers.output.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.RazorCoreGenerate.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\Spa\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\Spa\Menu.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.RazorTargetAssemblyInfo.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.RazorTargetAssemblyInfo.cs
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.Views.pdb
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\ref\Studio - Spa Day.dll
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.pdb
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.genruntimeconfig.cache
+C:\Users\pk080\source\repos\Ch15 Studio - Spa\obj\Debug\net5.0\Studio - Spa Day.csproj.CopyComplete
